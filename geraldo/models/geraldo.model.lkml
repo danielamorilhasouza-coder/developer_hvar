@@ -6,6 +6,3 @@ include: "/geraldo/explores/*.explore.lkml"
 include: "/geraldo/atributos/*.lkml"
 
 persist_with: treinamento_developer_default_datagroup
-explore: events {
-  label: "evento"
-}
